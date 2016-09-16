@@ -1,0 +1,7 @@
+name             'slac_test'
+maintainer       'Andrew May'
+maintainer_email 'amay@slac.stanford.edu'
+license          'MIT'
+description      'Installs/Configures slac_test'
+long_description 'Installs/Configures slac_test'
+version          '0.1.0'
